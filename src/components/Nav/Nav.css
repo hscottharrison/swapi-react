@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+}
+.nav-wrapper{
+  height: 70px;
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 100px 0px 40px;
+}
+.link-list{
+  float: right;
+}
+.li{
+  list-style: none;
+}
+.link{
+  text-decoration: none;
+}
+.link:visited{
+  color: #fff;
+}

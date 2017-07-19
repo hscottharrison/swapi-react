@@ -1,0 +1,22 @@
+.film-container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: calc(100vh - 70px);
+}
+.film-wrapper{
+  width: 80%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 40px;
+}
+.film-wrapper h1{
+  margin-bottom: 20px;
+}
+.summary{
+  margin-top: 10px;
+  padding: 20px;
+  border: 1px solid black;
+}

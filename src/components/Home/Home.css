@@ -1,0 +1,25 @@
+.home-container{
+  padding: 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.film-link{
+  color: #000;
+}
+.link-wrapper{
+  margin-top: 30px;
+  width: 80%;
+}
+.link-box{
+  border: 1px solid black;
+  height: 50px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title{
+  font-size: 20px;
+}
